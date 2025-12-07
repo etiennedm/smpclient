@@ -3,8 +3,6 @@
 In addition to UART, this transport can be used with USB CDC ACM and CAN.
 """
 
-from __future__ import annotations
-
 import asyncio
 import logging
 import math

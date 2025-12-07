@@ -1,7 +1,5 @@
 """Test the base64 helpers."""
 
-from __future__ import annotations
-
 import random
 from base64 import b64encode
 

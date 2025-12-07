@@ -3,8 +3,6 @@
 Specification: https://docs.mcuboot.com/design.html
 """
 
-from __future__ import annotations
-
 import argparse
 import pathlib
 import struct

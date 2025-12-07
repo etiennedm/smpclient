@@ -1,7 +1,5 @@
 """A Bluetooth Low Energy (BLE) SMPTransport."""
 
-from __future__ import annotations
-
 import asyncio
 import logging
 import re

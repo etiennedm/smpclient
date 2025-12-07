@@ -23,8 +23,6 @@ or in your local clone at `examples/`.
 
 """
 
-from __future__ import annotations
-
 import asyncio
 import logging
 import traceback

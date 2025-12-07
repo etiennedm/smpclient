@@ -1,7 +1,5 @@
 """Generics and Type Narrowing for SMP Requests and Responses."""
 
-from __future__ import annotations
-
 from typing import Protocol, Type, TypeVar, Union
 
 from smp import error as smperror
