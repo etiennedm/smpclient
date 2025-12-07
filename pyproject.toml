@@ -8,7 +8,7 @@ authors = [
 ]
 readme = "README.md"
 license = "Apache-2.0"
-requires-python = ">=3.9,<4"
+requires-python = ">=3.10,<4"
 classifiers = [
 "Development Status :: 5 - Production/Stable",
 "Intended Audience :: Developers",
@@ -53,7 +53,7 @@ format-jinja = "{% if distance == 0 %}{{ base }}{% if dirty %}+dirty{% endif %}{
 pyserial = "^3.5"
 smp = "^4.0.0"
 intelhex = "^2.3.0"
-bleak = "^1.1.1"
+bleak = "^2.0.0"
 async-timeout = { version = "^4.0.3", python = "<3.11" }
 
 [tool.poetry.group.dev.dependencies]
