@@ -1846,14 +1846,14 @@ files = [
 
 [[package]]
 name = "smp"
-version = "4.0.0"
+version = "4.0.2"
 description = "Simple Management Protocol (SMP) for remotely managing MCU firmware"
 optional = false
 python-versions = ">=3.9"
 groups = ["main", "doc"]
 files = [
-    {file = "smp-4.0.0-py3-none-any.whl", hash = "sha256:f524c8429a175c66ffab53a2179d7bb5611c79ba94fdc055e9848249df05b35e"},
-    {file = "smp-4.0.0.tar.gz", hash = "sha256:47457815bfee3d79b951e8be88c1331c678ae4ece93530c95d030735ff2e2939"},
+    {file = "smp-4.0.2-py3-none-any.whl", hash = "sha256:734f84d2a44dc408a10553373b3a525b9f8c9ce25579b6259e228a346b7413a2"},
+    {file = "smp-4.0.2.tar.gz", hash = "sha256:11ea847fb6ebfdd4fe9240bfa48c03e7030f74a1372c1fb1672a9988aab8d87f"},
 ]
 
 [package.dependencies]
@@ -2432,4 +2432,4 @@ type = ["pytest-mypy"]
 [metadata]
 lock-version = "2.1"
 python-versions = ">=3.10,<4"
-content-hash = "0b6189b6b67d2b9de36bcdd5da0feea73ff23aafa0a23d364d5f70cfe9d73630"
+content-hash = "f5b8a10d3b8692011807bd250e7ec8a2fc3873a4e866f47846864d2bc3e6ee18"
